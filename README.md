@@ -3,6 +3,7 @@
 Welcome to **Kinen-HTML** - a comprehensive HTML template designed for e-commerce websites. This template provides a structured foundation for building professional and responsive online stores, ensuring a seamless user experience across various devices.
 
 Live Preview: [visit](https://vxlrubel.github.io/kinen-html/)
+
 Documentation: [visit](https://vxlrubel.github.io/kinen-html/docs/index.html)
 ### Table of Contents
 
