@@ -22,3 +22,24 @@ Please visit to see the [demo](https://vxlrubel.github.io/kinen-html/)
 
 ## Folder Structure
 
+kinen-html/
+├── assets/
+│ ├── css/
+│ │ └── styles.css
+│ ├── images/
+│ │ └── logo.png
+│ ├── js/
+│ │ └── scripts.js
+├── components/
+│ ├── header.html
+│ ├── footer.html
+│ ├── product-card.html
+│ └── sidebar.html
+├── pages/
+│ ├── index.html
+│ ├── product.html
+│ └── cart.html
+└── README.md
+
+
+
