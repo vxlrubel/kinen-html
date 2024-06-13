@@ -24,8 +24,11 @@ Please visit to see the [demo](https://vxlrubel.github.io/kinen-html/)
 
 kinen-html/
 ├── assets/
+
 │ ├── css/
+
 │ │ └── styles.css
+
 │ ├── images/
 │ │ └── logo.png
 │ ├── js/
