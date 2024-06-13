@@ -59,8 +59,9 @@ kinen-html/
 Navigate to the project directory and open index.html in your browser to view the homepage.
 ```bash
     cd kinen-html
-    open pages/index.html
 ```
+open ./index.html
+
 
 03. **Customize:**
 - Modify the HTML files in the pages/ directory to add your own content.
